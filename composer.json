@@ -1,5 +1,5 @@
 {
-    "name": "sylius/theme-bundle",
+    "name": "liverbool/dos-theme-bundle",
     "type": "symfony-bundle",
     "description": "Themes management for Symfony2 projects.",
     "keywords": ["themes", "theming"],
@@ -39,7 +39,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.14-dev"
+            "dev-master": "0.15-dev"
         }
     }
 }

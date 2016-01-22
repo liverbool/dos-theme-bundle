@@ -11,12 +11,10 @@
 
 namespace Sylius\Bundle\ThemeBundle\Model;
 
-use Sylius\Component\Resource\Model\ResourceInterface;
-
 /**
  * @author Kamil Kokot <kamil.kokot@lakion.com>
  */
-interface ThemeInterface extends ResourceInterface
+interface ThemeInterface
 {
     /**
      * @param string $name
